@@ -6,10 +6,11 @@
 # Features
 - Mod Examples
 - Easy Modding!
-- Based of Week 7 Newgrounds Exclusive (currently)
+- Based of Week 7 Newgrounds Exclusive
 # Credits
-[Rozebud](https://github.com/ThatRozebudDude) - GF Sprite in main menu and bopeebo-bside in mod tests
+[Rozebud](https://github.com/ThatRozebudDude) - GF Sprite in main menu and bopeebo-bside in one of the mod tests
 
+[AngelWyvern](https://github.com/AngelWyvern) - for the Week 7 Newgrounds port
 
 [skullbite](https://github.com/skullbite) - README.md base
 
