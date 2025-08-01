@@ -22,6 +22,6 @@
 
 # Updates
 -  Website is outdated :\
-
+- Developing V2.0.0 the Viper Update! More info sooon
 
 
